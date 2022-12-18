@@ -10,4 +10,4 @@ festival, charge their smartphone on the go and then return them anywhere they
 want.
 
 ### 🚀 Open positions
-_Coming soon_
+[Backend Engineer (Ruby)](https://heychimpy.com/career/backend-engineer-ruby/)
