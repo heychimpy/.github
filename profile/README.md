@@ -1,5 +1,5 @@
 ## Welcome to the jungle! 👋
-![An image of a person who rented one of our power banks](https://github.com/heychimpy/.github/blob/master/assets/profile-header.png?raw=true)
+![An image of a person who rented one of our power banks](https://github.com/heychimpy/.github/blob/master/assets/profile-header.jpg?raw=true)
 
 ### 🐵 About Chimpy
 Chimpy exists to make sustainability awesome af. Our ambition is to make
